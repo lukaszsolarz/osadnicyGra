@@ -19,7 +19,8 @@
 </head>
 
 <body>
-<span style = "color:royalblue"> GRA PRZEGLĄDARKOWA</span>';
+    <span style = "color:royalblue"> GRA PRZEGLĄDARKOWA</span>
+    <br /><br />
 	
 	Tylko martwi ujrzeli koniec wojny <br /><br />
 	
